@@ -1,0 +1,12 @@
+
+@import url(animation.css);
+
+section {
+  margin-bottom: 200px;
+  opacity: 0;
+}
+
+section.skrolled {
+  -webkit-animation: lightSpeedIn 1s;
+  opacity: 1;
+}
