@@ -22,3 +22,9 @@ p {
 a {
   color: #e58e5b;
 }
+
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 0;
+  height: 0;
+}
